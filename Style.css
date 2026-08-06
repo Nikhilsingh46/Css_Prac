@@ -1,0 +1,48 @@
+*{
+  margin: 40px;
+  padding: 2px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+  background-color: rgb(150, 200, 150);
+}
+
+h1{
+  color: red;
+}
+
+button{
+  color: green;
+  background-color: gold;
+  border-radius: 5px;
+}
+
+#box{
+  background-color: blue;
+  color:aliceblue;
+  font-size: 25px;
+}
+
+.heading{
+  color: red;
+}
+
+#p{
+  text-align: left;
+
+}
+
+#header{
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 50px;
+}
+
+#outer{
+  font-size: 25px;
+}
+
+#inner{
+  font-size: 10px;
+}
