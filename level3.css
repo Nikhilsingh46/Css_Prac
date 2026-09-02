@@ -1,0 +1,21 @@
+#b1{
+  height: 150px;
+  width: 150px;
+  background-color: green;
+  font-size: 20px;
+}
+
+#b2{
+  height: 50%;
+  width: 50%;
+  background-color: brown;
+  margin-left: 10%;
+  font-size: 0.5em;
+}
+
+div{
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+  border: 2px solid black;
+}
