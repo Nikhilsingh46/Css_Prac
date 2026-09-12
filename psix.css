@@ -1,0 +1,41 @@
+h1{
+  text-align: center;
+}
+
+#navbar{
+  width: 100vw;
+  height: 50px;
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+div{
+  
+  width: 80px;
+  height: 25px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.outer{
+  border: 2px solid black;
+  height: 450px;
+  width: 450px;
+  background-color: cornflowerblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner{
+  border: 2px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: darkorchid;
+  text-align: center;
+}
